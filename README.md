@@ -40,3 +40,4 @@ int main()
 ![image](https://github.com/user-attachments/assets/93043381-0d75-4887-a198-af3c9ea27e9b)
 
 # RESULT:
+THE PROGRAM IS EXECUTED SUCCESSFULLY
